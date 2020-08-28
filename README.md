@@ -1,4 +1,4 @@
-# util [![GoDoc](https://godoc.org/github.com/fvbommel/util?status.svg)](https://godoc.org/github.com/fvbommel/util)
+# util [![PkgGoDev](https://pkg.go.dev/badge/github.com/fvbommel/util)](https://pkg.go.dev/github.com/fvbommel/util)
 
     import "github.com/fvbommel/util"
 

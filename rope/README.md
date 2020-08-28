@@ -1,4 +1,4 @@
-# rope [![GoDoc](https://godoc.org/github.com/fvbommel/util/rope?status.svg)](https://godoc.org/github.com/fvbommel/util/rope)
+# rope [![PkgGoDev](https://pkg.go.dev/badge/github.com/fvbommel/util/rope)](https://pkg.go.dev/github.com/fvbommel/util/rope)
 
     import "github.com/fvbommel/util/rope"
 
